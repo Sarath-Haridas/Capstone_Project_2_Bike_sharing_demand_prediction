@@ -47,11 +47,11 @@ We are required to model the demand for shared bikes with the available independ
 * ### Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 # Conclusions:
-* #### As we have calculated MAE,MSE,RMSE and R2 score for each model. Based on r2 score will decide our model performance.
+* #### We have calculated MAE,MSE,RMSE and R2 score for each model. Based on r2 score will decide our model performance.
  
 
-* ## Linear,Lasso,Ridge and ElasticNet.
-* #### 1) Linear, Lasso, Ridge and Elastic regression models have almost similar R2 scores on both training and test data.(Even after using GridserachCV we have got similar results as of base models).
+## Linear,Lasso,Ridge and ElasticNet.
+* ####  Linear, Lasso, Ridge and Elastic regression models have almost similar R2 scores on both training and test data.(Even after using GridserachCV we have got similar results as of base models).
 
 ## Decision Tree Regressor:
  * #### On Decision tree regressor model, without hyperparameter tuning we got r2 score as 65% on training data and 61% on test data. Thus our model memorised the data.
