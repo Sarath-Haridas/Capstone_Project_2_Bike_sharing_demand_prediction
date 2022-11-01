@@ -66,4 +66,4 @@ We are required to model the demand for shared bikes with the available independ
 * #### On Gradient Boosting Regression model, without hyperparameter tuning we got r2 score as 86% on training data and 85% on test data.Our model performed well without hyperparameter tuning.
 * #### After hyperparameter tuning we got r2 score as 93% on training data and 91% on test data,thus we improved the model performance by hyperparameter tuning.
 
- **Thus Gradient Boosting Regression(GridSearchCV) and Random forest gives good r2 scores. We can deploy this models.**
+ **Thus Gradient Boosting Regression(GridSearchCV) and Random forest gives good r2 scores. We can deploy these models.**
