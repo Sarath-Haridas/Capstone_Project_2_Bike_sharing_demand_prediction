@@ -19,7 +19,7 @@ Which variables are significant in predicting the demand for shared bikes. How w
 # Business Goal:
 
 
-You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 
 
@@ -54,12 +54,12 @@ You are required to model the demand for shared bikes with the available indepen
 * #### 1) Linear, Lasso, Ridge and Elastic regression models have almost similar R2 scores on both training and test data.(Even after using GridserachCV we have got similar results as of base models).
 
 ## Decision Tree Regressor:
- * #### On Decision tree regressor model, without hyperparameter tuning we got r2 score as 64% on training data and 62% on test data. Thus our model memorised the data.
+ * #### On Decision tree regressor model, without hyperparameter tuning we got r2 score as 65% on training data and 61% on test data. Thus our model memorised the data.
 
 
 ## Random Forest:
 
- * #### On Random Forest regressor model, with hyperparameter tuning we got r2 score as 84% on training data and 81% on test data. Thus our model memorised the data.
+ * #### On Random Forest regressor model, with hyperparameter tuning we got r2 score as 84% on training data and 82% on test data. Thus our model memorised the data.
 
 ## Gradient Boosting Regression(Gradient Boosting Machine):
 
